@@ -1,0 +1,152 @@
+head body{
+    background-color: white;
+}
+
+header li{
+    float: left;
+    list-style: none;
+    color: white;
+    font-size: 15px;
+    padding-left: 40px;
+    margin-bottom: 5px;
+}
+
+.ul_box{
+    background-color: black;
+    float: left;
+    left: 0px;
+    width: 100%;
+}
+
+main{
+    clear: both;
+}
+
+.main-container{
+    width: 95%;
+    margin: 0 auto;
+    margin-top: -20px;
+}
+
+.left{
+    float: left;
+    width: 60%;
+    margin-top: 2px;
+    margin-bottom: 40px;
+}
+
+.left h2{
+    border-left: 5px solid black;
+    border-bottom: 2px solid black;
+    padding-left: 5px;
+    font-size: 30px;
+}
+
+
+.grayBox{
+    background-color: #f1f1f1;
+    border: 3px solid #ebebeb;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.left .grayBox h3{
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    border-left: 4px solid red;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    margin-left: 18px;
+    margin-top: 20px;
+}
+
+form div{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+
+
+.text, textarea{
+    padding: 5px;
+    color: #999;
+    background: #fff;
+    border: 1px solid #dfdfdf;
+}
+
+
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+
+
+.kiji{
+    background-color: #f1f1f1;
+    border: 3px solid #ebebeb;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.kiji h3{
+    border-bottom: solid 2px lightgray;
+}
+
+.contents{
+    margin: 5px;
+    padding-bottom: 5px;
+}
+
+.handlename{
+    font-size: 12px;
+}
+
+
+.under{
+    padding: 50px;
+}
+
+
+
+.right{
+    float: right;
+    width: 30%;
+    margin-left: 80px;
+    padding: 30px;
+}
+
+
+
+.right ul{
+    list-style-type: none;
+    line-height: 2em;
+    margin-left: -20px;
+}
+
+.right h3{
+    border-bottom : black dotted 2px ;
+}
+
+
+
+footer{
+    clear: left;
+    width: 100%;
+    height: 35px;
+    font-size: 15px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 12px;
+
+}
